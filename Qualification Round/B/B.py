@@ -1,3 +1,5 @@
+# Link: https://www.facebook.com/codingcompetitions/hacker-cup/2020/qualification-round/problems/B
+
 import os
 mydir = os.path.dirname(os.path.abspath(__file__))
 mychar = '\\' if '\\' in mydir else '/'
