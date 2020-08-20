@@ -1,3 +1,6 @@
+# Link: https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/A3
+# Damn problematic problem, it need 3 BBST and with ranges it got damn tricky
+
 from time import time
 import os
 start_time = time()
