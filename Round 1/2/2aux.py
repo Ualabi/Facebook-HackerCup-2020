@@ -1,3 +1,7 @@
+# Link: https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/A2
+# Solution with O(N log N) with a BBST
+# But somehow, it gets worse time that my O(N^2 log N) solution with an ordered list and bisearchs
+
 class IntervalNode(): 
     def __init__(self, x1, x2): 
         self.val_from = x1
