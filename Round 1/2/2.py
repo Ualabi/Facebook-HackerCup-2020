@@ -1,3 +1,7 @@
+# Link: https://www.facebook.com/codingcompetitions/hacker-cup/2020/round-1/problems/A2
+# Solution with O(N^2 log N) with an ordered list and bisearchs
+# But somehow, it gets better time that my O(N log N) solution with a BBST
+
 import os
 mydir = os.path.dirname(os.path.abspath(__file__))
 mychar = '\\' if '\\' in mydir else '/'
